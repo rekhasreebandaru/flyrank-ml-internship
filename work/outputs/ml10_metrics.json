@@ -1,0 +1,13 @@
+{
+  "base_decline_rate": 0.547085201793722,
+  "flagged_share": 0.17320627802690583,
+  "score_cutoff": 0.705,
+  "median_prev_ctr": 0.0030303030303030303,
+  "median_clicks_prev_30d": 4.0,
+  "p_at_50_meaningful_model": 0.72,
+  "p_at_50_meaningful_earlier_clicks": 0.84,
+  "n_test_pages": 3568,
+  "n_test_clients": 7,
+  "auc_model_meaningful": 0.5421966402401477,
+  "auc_earlier_clicks_meaningful": 0.6083407096674877
+}
